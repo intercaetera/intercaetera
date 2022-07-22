@@ -7,4 +7,4 @@ Software engineer, artist, writer, musician, traveller, teacher, Catholic, Renai
 #### Active projects
 
 - [**Formuj**](https://formuj.intercaetera.com/) - A battle-tested React form schema framework built on top of Formik.
-- [**rosary.cafe**](https://rosary.cafe) - A rosary app.
+- [**rosary.cafe**](https://rosarycafe.intercaetera.com) - A rosary app (moved under the mothership domain).
